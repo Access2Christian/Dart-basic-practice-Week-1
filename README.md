@@ -72,4 +72,4 @@ License
 This project is a Project assignment from Power Learn Project Africa (PLP).
 
 Author
-Nnahji, Christian – Access2christian
+Nnaji, Christian – Access2christian
